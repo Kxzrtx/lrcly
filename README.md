@@ -36,7 +36,7 @@ cargo build --release
 ### 3. Run
 
 ```bash
-cargo run -- lyrics
+cargo run -- --lyrics
 ```
 
 Or run the compiled binary:
