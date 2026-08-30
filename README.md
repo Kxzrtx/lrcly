@@ -23,7 +23,7 @@ Live synchronized lyrics for your currently playing music, right in the terminal
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/lrcly.git
+git clone https://github.com/Kxzrtx/lrcly.git
 cd lrcly
 ````
 
