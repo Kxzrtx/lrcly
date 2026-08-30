@@ -42,7 +42,7 @@ cargo run -- --lyrics
 Or run the compiled binary:
 
 ```bash
-./target/release/lrcly lyrics
+./target/release/lrcly --lyrics
 ```
 
 Make sure a music player with MPRIS support is currently playing.
@@ -54,7 +54,7 @@ Make sure a music player with MPRIS support is currently playing.
 ### Lyrics
 
 ```bash
-lrcly lyrics
+lrcly --lyrics
 ```
 
 Displays only the current synchronized lyric in fullscreen.
@@ -62,7 +62,7 @@ Displays only the current synchronized lyric in fullscreen.
 ### Info
 
 ```bash
-lrcly info
+lrcly --info
 ```
 
 Displays the artist, title, album and current lyric.
@@ -70,7 +70,7 @@ Displays the artist, title, album and current lyric.
 ### Time
 
 ```bash
-lrcly time
+lrcly --time
 ```
 
 Displays the current lyric and playback time.
@@ -78,7 +78,7 @@ Displays the current lyric and playback time.
 ### Full
 
 ```bash
-lrcly full
+lrcly --full
 ```
 
 Displays all available information.
